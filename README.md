@@ -28,4 +28,4 @@ A simple car selection system for Unity. Users can browse different cars, view i
 ---
 
 **Written by Amir Javadzadeh**  
-**Telegram Channel:** [@Amir_Javadzadeh]((https://t.me/Amir_Javadzadeh))
+**Telegram Channel:** [@Amir_Javadzadeh](https://t.me/Amir_Javadzadeh)
